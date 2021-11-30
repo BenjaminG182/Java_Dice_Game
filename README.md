@@ -6,3 +6,5 @@ The die numbers are selected randomly and then converted from a number to a word
 
 # Build
 This game is built using Java Swing. This is a constructor using GUI.
+
+The controller is the Die.java file, the framework and logic is located in the DoubleDice.java file. 
