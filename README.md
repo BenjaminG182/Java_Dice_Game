@@ -3,3 +3,6 @@ The play begins with $200 dollars. They bet an amount, and two ten-sided die are
 
 # Random Number
 The die numbers are selected randomly and then converted from a number to a word. 
+
+# Build
+This game is built using Java Swing. This is a constructor using GUI.
